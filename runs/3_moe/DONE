@@ -1,0 +1,19 @@
+{
+  "phase": "moe",
+  "batch": 64,
+  "params_total": 57115648,
+  "params_active": 31919104,
+  "steps": 1221,
+  "tokens": 20004864,
+  "final_train_loss": 1.1125,
+  "final_val_loss": 1.0841,
+  "peak_mem_gb": 12.91,
+  "wall_clock_s": 977,
+  "device": "mps",
+  "lr": 0.0005,
+  "conversion": {
+    "dense_val_before": 1.180337905883789,
+    "moe_val_after": 1.180337905883789,
+    "abs_diff": 0.0
+  }
+}

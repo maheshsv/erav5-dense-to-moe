@@ -1,0 +1,15 @@
+{
+  "phase": "dense",
+  "batch": 64,
+  "params_total": 19308544,
+  "params_active": 19308544,
+  "steps": 1221,
+  "tokens": 20004864,
+  "final_train_loss": 1.2348,
+  "final_val_loss": 1.1803,
+  "peak_mem_gb": 6.77,
+  "wall_clock_s": 871,
+  "device": "mps",
+  "lr": 0.001,
+  "conversion": null
+}
